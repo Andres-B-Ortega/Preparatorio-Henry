@@ -1,2 +1,1 @@
-# Preparatorio-Henry
-Repositorio de prueba del modulo 2
+Este repositorio es una prueba para aprender como crearlo y clonarlo desde github a mi escritorio
